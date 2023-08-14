@@ -1,7 +1,7 @@
-# Restaurant_landing_page_
-This Restaurant Landing page is built by using Tailwind Css Hope you like it 
 
-<h1 align="center">Hi 👋 I am Ayush Shyam Lingayat</h1>
+
+
+<h1 align="center">Hi I am Ayush Shyam Lingayat</h1>
 <h3 align="center">I Am a Front End Developer from India</h3>
 
 - 💬 Ask me about **Designing and Development**
